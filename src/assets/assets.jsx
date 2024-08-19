@@ -163,6 +163,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album1,
         file: song1,
+        album: 'Leo',
         desc: "From Leo",
         duration: "4:08"
     },
@@ -172,6 +173,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album2,
         file: song2,
+        album: 'Leo',
         desc: "From Leo",
         duration: "2:18"
     },
@@ -181,6 +183,7 @@ export const songsData = [
         artist: "Santhosh Narayanan",
         image: album3,
         file: song3,
+        album: 'Mahaan',
         desc: "From Mahaan",
         duration: "4:08"
     },
@@ -190,6 +193,7 @@ export const songsData = [
         artist: "G V Prakash",
         image: album4,
         file: song4,
+        album: 'Soorarai Pottru',
         desc: "From Soorarai Pottru",
         duration: "1:10"
     },
@@ -199,6 +203,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album5,
         file: song5,
+        album: 'Vikram',
         desc: "From Vikram",
         duration: "2:36"
     },
@@ -208,6 +213,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album6,
         file: song6,
+        album: 'Jailer',
         desc: "From Jailer",
         duration: "3:27"
     },
@@ -217,6 +223,7 @@ export const songsData = [
         artist: "Sam C S",
         image: album7,
         file: song7,
+        album: 'Kaithi',
         desc: "From Kaithi",
         duration: "1:53"
     },
@@ -226,6 +233,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album8,
         file: song8,
+        album: 'Velai illa Pattathari',
         desc: "From VIP",
         duration: "3:56"
     },
@@ -235,6 +243,7 @@ export const songsData = [
         artist: "Hip Hop Tamizha",
         image: album11,
         file: song9,
+        album: 'Meesaya Murukku',
         desc: "From Meesaya Murukku",
         duration: "3:42"
     },
@@ -244,6 +253,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album9,
         file: song10,
+        album: 'Coolie',
         desc: "From Coolie",
         duration: "2:09"
     },
@@ -253,6 +263,7 @@ export const songsData = [
         artist: "Yuvan Shankar Raja",
         image: album10,
         file: song11,
+        album: 'Mankatha',
         desc: "From Mankatha",
         duration: "3:04"
     },
@@ -262,6 +273,7 @@ export const songsData = [
         artist: "Anirudh",
         image: album8,
         file: song12,
+        album: 'Velai illa Pattathari',
         desc: "From VIP",
         duration: "4:27"
     }

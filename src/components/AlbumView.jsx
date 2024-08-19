@@ -49,7 +49,7 @@ const AlbumView = () => {
                         <img className='inline mr-5 w-10 rounded' src={song.image} />
                         <span className='text-white'>{song.name}</span>
                     </p>
-                    <p className='text-[15px] ml-1 flex-grow basis-[20%] [@media(max-width:750px)]:hidden'>{currentAlbum.name}</p>
+                    <p className='text-[15px] ml-1 flex-grow basis-[20%] [@media(max-width:750px)]:hidden'>{song.album}</p>
                     <p className='hidden sm:block text-[15px] ml-1 flex-grow basis-[20%]'>{song.artist}</p>
                     <p className='text-[15px] text-center flex-grow basis-[15%] [@media(max-width:390px)]:hidden [@media(max-width:500px)]:basis-[7%]'>{song.duration}</p>
                 </div>
